@@ -1,2 +1,2 @@
 # coderhouse
-projetos/aulas
+projetos
